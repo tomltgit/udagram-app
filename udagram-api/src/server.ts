@@ -13,6 +13,8 @@ import { V0_FEED_MODELS, V0_USER_MODELS } from "./controllers/v0/model.index";
 
   await sequelize.addModels(V0_FEED_MODELS);
   await sequelize.addModels(V0_USER_MODELS);
+  
+  //@ts-ignore
   await sequelize.sync();
 
   console.log("Database Connected");
