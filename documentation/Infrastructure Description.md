@@ -10,6 +10,6 @@
 <img title="Infrastructure" src="Infrastructure.png">
 
 ## AWS References:
-    https://aws.amazon.com/rds/>
+    https://aws.amazon.com/rds/
     https://aws.amazon.com/s3/
     https://aws.amazon.com/elasticbeanstalk/
