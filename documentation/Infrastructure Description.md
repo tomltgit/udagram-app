@@ -9,7 +9,7 @@
 
 <img title="Infrastructure" src="Infrastructure.png">
 
-## AWS References
-    [AWS Relational Database Service](https://aws.amazon.com/rds/)
-    [AWS Simple Storage Service](https://aws.amazon.com/s3/)
-    [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
+## AWS References:
+    https://aws.amazon.com/rds/>
+    https://aws.amazon.com/s3/
+    https://aws.amazon.com/elasticbeanstalk/
